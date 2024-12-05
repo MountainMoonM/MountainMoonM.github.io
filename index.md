@@ -25,4 +25,5 @@
 - **Present situation**
     - Find or create a promising collaborative project
     - Find a part-time job to get rid of the current situation of poverty
+    - Undertake paid code programming needs
  
